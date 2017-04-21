@@ -6,8 +6,10 @@
 
 
 ## Model architecture
+<img src="model.png" alt="Drawing" style="width: 200px;"/>
 
-![](./model.png =100x20)
+<!-- ![](./model.png =100x20) -->
 
+<img src="./model.png" width="48">
 
-![](.png | width=100)
+<!-- ![](.png | width=100) -->
