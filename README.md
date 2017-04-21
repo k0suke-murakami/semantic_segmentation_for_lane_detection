@@ -10,6 +10,6 @@
 
 <!-- ![](./model.png =100x20) -->
 
-<img src="./model.png" width="48">
+<img src="./model.png" width="100" height="400">
 
 <!-- ![](.png | width=100) -->
