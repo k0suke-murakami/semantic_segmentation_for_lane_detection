@@ -7,4 +7,7 @@
 
 ## Model architecture
 
-![](./model.png | 100x60)
+![](./model.png =100x20)
+
+
+![](.png | width=100)
